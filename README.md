@@ -1,2 +1,2 @@
 # Hello world ，I am French-bun-of-PanPan !
-By this lesson,I learn to establish my first repositery in github ,and realize a lot of the direction about my computer major by the lectuer,I realize that keep learning is very important  as a programmer.
+#By this lesson,I learn to establish my first repositery in github ,and realize a lot of the direction about my computer major by the lectuer,I realize that keep learning is very important  as a programmer.
