@@ -1,2 +1,2 @@
 # Hello world ，I am French-bun-of-PanPan !
-# By this lesson,I learn to how to establish my first repositery in github,and know a lot of direction about my computer major by the lectuer,I realize that keep learning is very important as a programmer.
+# 心得：我学会了如何在github中建立我的第一个存储库，总的来说不算太难，但还是花费了一些时间，为了能成为一名合格的程序员，我会继续加油，保持学习。
